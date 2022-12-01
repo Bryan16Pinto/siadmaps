@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361210109793",
+    "project_id": "siadmaps",
+    "storage_bucket": "siadmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361210109793:android:a476f186ca471dfb532f20",
+        "android_client_info": {
+          "package_name": "com.example.siadmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361210109793-f9aa1u4lqtml5big1iq0ti5hohc2iv1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLoalKzZa4QhqpdL5mVakG8GCxTna6xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361210109793-f9aa1u4lqtml5big1iq0ti5hohc2iv1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
